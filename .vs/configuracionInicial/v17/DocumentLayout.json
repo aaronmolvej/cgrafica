@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\configuracionInicial\\Main_Dibujo2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|solutionrelative:configuracionInicial\\Main_Dibujo2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|solutionrelative:Shader\\core.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BBC1376-AF99-4ECE-A77D-6035BA2604C1}|configuracionInicial\\configuracionInicial.vcxproj|solutionrelative:Shader\\core.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "core.vs",
+              "DocumentMoniker": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.vs",
+              "RelativeDocumentMoniker": "Shader\\core.vs",
+              "ToolTip": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.vs",
+              "RelativeToolTip": "Shader\\core.vs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T04:03:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "core.frag",
+              "DocumentMoniker": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.frag",
+              "RelativeDocumentMoniker": "Shader\\core.frag",
+              "ToolTip": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\Shader\\core.frag",
+              "RelativeToolTip": "Shader\\core.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T04:03:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Dibujo2D.cpp",
+              "DocumentMoniker": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\configuracionInicial\\Main_Dibujo2D.cpp",
+              "RelativeDocumentMoniker": "configuracionInicial\\Main_Dibujo2D.cpp",
+              "ToolTip": "D:\\Fac. Ing\\Semestre10\\Lab. Computaci\u00F3n Gr\u00E1fica\\Practicas\\configuracionInicial\\configuracionInicial\\Main_Dibujo2D.cpp",
+              "RelativeToolTip": "configuracionInicial\\Main_Dibujo2D.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T03:13:18.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
